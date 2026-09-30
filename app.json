@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "GREAT STYLE",
+    "slug": "great-style",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.greatstyle.app"
+    },
+    "android": {
+      "package": "com.greatstyle.app"
+    }
+  }
+}
